@@ -1,0 +1,52 @@
+Model predictions for k=7, iris data set
+k: 7
+metric: com.company.Euclidean
+training set size: 105
+predictions made: 45
+accuracy: 1.0
+predictions: 
+1
+0
+2
+1
+1
+0
+1
+2
+1
+1
+2
+0
+0
+0
+0
+1
+2
+1
+1
+2
+0
+2
+0
+2
+2
+2
+2
+2
+0
+0
+0
+0
+1
+0
+0
+2
+1
+0
+0
+0
+2
+1
+1
+0
+0
